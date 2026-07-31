@@ -26,30 +26,7 @@ The model can classify:
 - Neutral
 - Sad
 - Surprised
-
-
-## Project Structure
-
-speech-emotion-recognition/
-
-├── src/
-│   ├── feature_extraction.py
-│   ├── data_loader.py
-│   ├── tess_loader.py
-│   ├── prepare_data.py
-│   ├── prepare_combined_data.py
-│   ├── train.py
-│   ├── train_combined.py
-│   ├── prediction.py
-│   └── evaluate_tess.py
-│
-├── models/
-│   └── emotion_audio_combined.pkl
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-
+- 
 
 ## Datasets
 
