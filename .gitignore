@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets
+data/
+
+# Audio files
+*.wav
+*.mp3
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
